@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	
+    <!-- Bootstrap CSS -->
+	
+	    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	    <link rel="stylesheet" type="text/css" href="web.css" /> 
+
+<head>
+<title>Page Title</title>
+</head>
+<body style="background-color:powderblue;">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+	<img src="logo.jpg" height="50px"  style="width:50px " alt="LOGO"  class="img.circle"/>
+
+ 			 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+   				 <span class="navbar-toggler-icon"></span>
+  			</button>
+	
+ 	 	<div class="collapse navbar-collapse" id="navbarSupportedContent">
+    		<ul class="navbar-nav mr-auto" style="color:yellow" >
+      			<li class="nav-item ">
+        			<a class="nav-link" style="color:yellow"  href="index.html">Home <span class="sr-only">(current)</span></a>
+     		 	</li>
+     		 	
+      	<li class="nav-item ">
+    		<a class="nav-link" style="color:yellow"  href="execute.html">Execution</a>
+
+      	</l i>
+      	<li class="nav-item">
+        	<a class="nav-link " style="color:yellow" href="report.html" tabindex="-1" aria-disabled="true">Report</a>
+<li class="nav-item">
+        	<a class="nav-link " style="color:yellow" href="MoreInfo.html" tabindex="-1" aria-disabled="true">MoreInfo</a>
+      	</li>
+    	</ul>
+    	
+  		</div>
+	</nav>
+	</div>
+		<marquee>
+<h2 class="text-center"  style="color:brown; margin-top:40px; margin-bottom:40px ;font-family:georgia" >Blood Cancer Detection Using Microscopic Images</h2>
+</marquee>
+<section class="fileUploader">
+  
+  
+  <form name="uploadForm">
+    <label class="fileUploader__button" for="upload">Upload File</label>
+    <input class="fileUploader__input" id="upload" type="file">
+  </form>
+  <p class="fileUploader__message" id="upload-message"></p>
+  <h2>Progress:</h2>
+  <progress class="fileUploader__progress" id="filereader-progress" value="0" max="100"></progress>
+  <button id="filereader-abort" type="button">Abort</button>
+  <h2>Preview (if it's an image):</h2>
+  <img src="" class="fileUploader__message" id="filereader-message"></img>
+<form class="form">
+  
+	<a class="form_submit" href="report.html" type="button">Submit</a>
+
+</form>
+</section>
+</body>
+</html>							

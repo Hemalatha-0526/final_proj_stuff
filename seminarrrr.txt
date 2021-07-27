@@ -1,0 +1,210 @@
+https://teams.microsoft.com/l/team/19%3arL5vxLdeQUAq7zCMtArvXt_mORWRcJsuEXrKbD-DDQM1%40thread.tacv2/conversations?groupId=7c69669a-49cc-4dad-9e06-a479cb267662&tenantId=9d4fbe66-d070-48f2-8c3e-57ff592e142e
+
+Seminarr PPT Concept
+
+
+Good afternoon sir . Hello mates,hope you are all fyn at ur end
+  I am Hemalatha . Today  i am here to give you an basic idea on screen less display .
+
+here comes the objectives or the contents which we are going to look into through out the session
+.........(read)
+Introduction
+Origin
+Need of SLD
+Technologies Used
+Types of SLD
+Pros and Cons
+Applications 
+Enhancement Projects
+Conclusion
+
+
+3)Here you see examples of the current display technology…touch screen. Many of you have smart phones or tablet computer with touch screen displays. We predict that your touch screen displays will soon be as “old school” as chalk boards.As we are all aware that Technological advancement nowadays is moving to a faster pace. The latest display technology -Touch Screen Display, commonly used in our smart phones and tablet computers will move to a mere history in the coming future. 
+
+
+4)Screen less, as the word suggests clearly means “no screen ” . Therefore, the screenless display can be defined as a display that helps in displaying and even transmitting any information without the help of the screen or Projector.
+
+Screenless display is nothing but a display which can be shot at any place wherever the user wishes to have the screen. It can be at any direction or place such as on the wall or in the open space.  It is a system of displaying information/data though an electronic video source without using screen at all. 
+
+
+
+5)Bees knees : the excellent things of sld
+
+Screenless display is the emerging display technology. In these examples you see that the user is able to interact with a three dimensional image projected into thin air.  <Click for last image> Imagine your desktop floating in the space before your eyes waiting for your interaction!
+
+It is a wearable gesture  interface that augments the physical world around us with digital information and lets us use natural hand gestures to interact with that information .- which is nothing but a Sixth sense Technology.
+
+6)Reto Meier, is an “Android Developer Advocate for Google” he recently laid out a fairly science fiction account of where computer (or at least mobile) interfaces are headed . 
+
+This field came into progress during the year 2014 by the arrival of products like holographic videos, virtual reality headsets, retinal displays, mobiles for elderly, eye tap etc. At present, we can say that only part of the Screenless Display Technology is brought up which means that more advancement is necessary for a boost in the technology. This problem will surely provide a pathway for screenless display.
+
+
+7)Miniaturization : the process of making something very small using modern technology: 
+Lack of space is one of major problem faced by screen displays. This emerging new display technology will replace this touch screen environment and will solve the problems at higher level, making life more comfortable. 
+
+Nowadays the technology is changing very rapidly in the existing machines and in the tools in order to solve the problem at the high level. It would be not wrong in saying that the Screenless display technology would be a life-changing concept and also one of the most interesting topics for the research. This technology also solves the problem of the space of display in one 
+
+Here is the picture ,it may look irrelavant but it shows waht miniaturization actual means.
+
+8)The first screen-less display that needs mentioning is Google Glass.
+Google Glass sits on the face like a pair of glasses, and on one eye it has a block of glass that allows you to see augmented reality. Images can be displayed right in front of your eye, as well as text and information about objects and places that are in front of you.
+This technology is only in its early stages, but definitely shows that screen-less displays will become a natural form of media consumption in the future.
+
+Augmented reality (AR) is a technology that lets people superimpose digital content (images, sounds, text) over a real-world environment.
+
+here is the picture of 
+google glass shows how its looks like.
+
+9)Interactive projectors :are generally ultra-short throw projectors(It virtually eliminates shadow and eye glare....and it also refers to a distance between 0 to 4 ) with projection mapping. The images and words are projected onto a projector screen or whiteboard, much like your standard projectors. Unlike most projectors, however, interactive projection gives you the ability to interact with what you're projecting.
+
+
+
+
+Visual displays :are depictions(to show something in a picture ) that convey information by means of elements beyond pure text. Examples include diagrams, maps, and computer interfaces. The common factor in all of these is their reliance on the “visual intelligence” of humans to organize graphically-presented information in a way that makes it easier to understand. The design of an effective visual display is based on general principles involving both the nature of human vision and the nature of the task. The particular medium used—paper, canvas, computer monitor, etc.—is irrelevant.
+
+A 3D hologram: is defined as a 3D projection that exists freely in space and is visible to everyone without the need for 3D glasses. Holography is the next stage of photography and conventional film and its three-dimensionality creates completely new possibilities for use, such as for product presentation
+
+
+
+10)these are the types :
+(read)
+Visual Image
+Retinal Projection
+Synaptic Interface/Brain Computer Interface
+
+
+11)Here it is to add you an more rememberance of each types-- 
+visual images displays on eye or retina 
+retinal projection directly on retina
+synpatic interface direcct communication between the brain and teh external device.
+
+Now lets look into more about the types individaully
+
+12)(read)Visual image is a type of screen less display were the eye or the retina can recognize any screen less image.
+The display works on the principle that ; light gets reflected by the intermediate objects before reaching the retina.
+ The intermediate objects can be  holograms, windows , or even LCDs
+
+13)(read)Hologram
+Projection on window
+Virtual Reality Goggles 
+Heads Up Display
+
+
+14) Here are the visuals of the examples : (read)
+
+15)This photos show how the images you are seeing do not rely on surfaces of any kind.  The are images projected threw air molecules.  These images are not limited to being just seen indoors but outdoors as well. However the image quality is affected if it is windy or rainy or especially sunny outside.  For indoors use you can use controlled lighting to make the image appear better. You wouldn’t feel anything but air blowing from the projector.
+
+16)
+Virtual Retinal Display (VRD), a screenless display technology allowing the image directly to be projected on to the retina. 
+In VRD, no real image is produced. It just beams the image to our eye balls directly.  The user will feel that the display is floating in the space in front of him.  Compared to other displays, it uses narrow band color, coherent light and allows short transient light emission. 
+ 
+Retinal Scan Display and Retinal Projector are some common popular names of it.
+
+17) (read)
+The VRD was initially invented by Kazuo Yoshinaka in 1986.
+Later work at the Human Interface Technology Lab at University of Washington had brought out a VRD system in 1991.
+
+
+18) The block diagram of the virtual retinal display consists of following blocks: photon generation, intensity modulation, beam scanning, optical projection and drive electronics. Photon generation block generates the coherent beam of light; this photon source make use of the laser diodes as coherent source with retina display to give a diffraction onto the retina of the human eye. The light generated from photon source is intensity modulated. The intensity of the light beam gets modulated to match the intensity of the image.
+Now the modulated beam undergoes beam scanning. Beam Scanning allows keeping image pixels properly on the retina. In the beam scanner both raster mode and vector mode(there are the types of images produced when scanning or photographing an object) scanning takes place. After the scanning process, the optical beam projection to the retina takes place. When the coplanar property between the entrance pupil of the user and the exit pupil of VRD is achieved, a spot like beam will be focused to the eye. The spot focused through the eye will draw an image on the retina. Drive electronics will allow synchronization of scanner, modulator and coming video signal. Through synchronization a stable image will be formed. Its said that more compact VRDs will be available with the MEMS technology.
+
+19)
+
+20)
+
+21) (read)The visual image is directly given to the brain.
+Brain Computer Interface –direct communication between the brain and the external devices.
+This category can also be known by different names such as human machine interface, synthetic telepathy interface, mind machine interface and direct neural interface.
+
+
+22)Synaptic Interfaces does not use light at all and the visual image is directly given to the brain. The technology is in the advancement mode and it is now been tested on humans too. This is useful for security system, effective communication, education, business, planning and broadcast. Success was achieved in sampling video signals from eyes of horseshoe crab through their nerves. Also, the video signals from electronic cameras into the creatures' brains were also sent successfully.
+
+Can you guys imagine a computer been controlled using our mind? Then this imagination is coming to a reality through synaptic interfaces. Recently Duke University reported that by connecting the brains of two mice over the Internet, the mices were able to cooperate and perform tasks. In 2013 Harvard University reported that they established a link between the brains of rat and human.
+In 2013, MIT reported that they have implanted false memory into the brain of a mouse. Now much research is taking place related to this. The advancement in the technology will make the future world in such a condition that even a blind person can drive vehicles.
+
+ A camera that might be incorporated into eyeglasses picks up images.  These images are sent to an electrode implanted in the brain.  The brain can then interpret these signals, thus creating artificial sight.  This can be used to provide vision who have a defect of the eye by bypassing the damaged eye parts and sending a visual signal straight to the brain.
+
+23)Low power requirements 
+Higher resolution images
+Greater Portability
+More Accurate color
+Greater brightness and better conntrast
+Wide angle of View
+Ability to present 3D images
+Low power requirements-
+ Only six diodes are required and afew of a watts to deliver their images to theuser 
+’
+s eyes [3].
+2. Higher resolution images-
+ The pixels in the images projected by the diodes can be made smaller than is possible with any CRT or flat panel display, so higher resolution can be achieved. With retinal projectors, theonly limitation in the resolution of visual images will be the resolving power of the users
+’
+ eyes.
+3. Greater portability-
+ The combination of diodes, lenses, and processing components in a retinal projectorsystem will weigh only a few ounces.
+4. Wider angle of view-
+ Retinal projectors will be able to provide a wider field of view than is possible withdisplay screens.
+5. More accurate color-
+ By modulating light sources to vary the intensity of red, green, and blue light, retinal projectors canprovide a wider range of colors
+ – 
+ and more fully saturated colors
+ – 
+ than any other displaytechnology.
+6. Greater brightness and better contrast-
+ Retinal projectors can provide higher levels of contrast and brightness than any other display system.
+7. Ability to present 3D images-
+ With their capability of presenting high definition image-pairs, retinal projectors can deliver the most highly realistic stereoscopic movies and still pictorial images to their users.
+8. Ability to present far-point images-
+ The human visual system is a far-point system. With today
+’
+s desktopand laptop computers users must employ their near-point vision. The excessive use of our near-point vision inusing computers, reading, sewing, playing video games, etc., is making myopia a very common impediment.The use of the far-point images that can be provided by retinal projector systems could reduce the incidence ofmyopia and, hence, the growing need for and use of eyeglasses.
+9. Lower costs-
+ The present cost of retinal projector systems is high. Nevertheless, there are no hard-to-overcome manufacturing problems in mass-producing and low-cost components, so inexpensive systems willsoon become available. Environmental and disposal costs of these tiny delivery devices will also be minimal because toxic elements such as lead, phosphorus, arsenic, cadmium, and mercury are not used in their manufacture
+
+
+
+
+
+24)The principle disadvantage is that virtual retinal display (VRD) is not yet available in the significant numbers. 
+ The limitation of conventional 3D displays is that the observer has no freedom of head movement or the freedom to increase information about the 3D objects being projected 
+ Prototypes and special experimental models are now being built, but their cost per unit is high.
+
+Many problems related to eyesight can arise as products need close contact with eyes.
+
+
+
+
+26) Medical field: By allowing the physician to view a virtual X-Ray of infected areas information that is concerning that patient during surgery. Virtual images produced by VRD could be laid-down with the patient by tracking the view of the physician in relation to the position of the patient. 
+Manufacturing field: Used in manufacturing environment by viewing virtual blue print that uses C3 images to identify parts placement and operation information. 
+ Transportation system: It can be beneficial in any transportation system by proving the display that can project virtual map of the surrounding area therefore in siding vision of providing reference state train characteristics and craft instrumentation
+
+27)
+ In year 2001 Microsoft had begun to work on an idea for an Interactive table that mixes both the physical and the Virtual worlds.
+Multi touch is an interaction technique for human - computer and the hardwired devices that apply it, which allows users to compute it without any conventional input devices.
+
+Smart Google is developing the compact video camera which films everything the wearer looks at the information what the viewer wants will be directly being seen in through the glasses where there is no screen or projector present.
+ Several laboratories are working under progress on the electron beam lithography which includes the advanced enhancement of the futuristic screen less display.
+ Adobe systems are also working out for the development and deployment cross platform of the several applications which are to be viewed without the actual screen
+Japanese scientists have invented the pair of intelligent Glasses that are able to remember last time where people saw their keys, Hand-bags, iPods, and mobile phones.
+
+
+29)Screenless display technology is likely to affect
+Lighting and projection technologies
+Software development/design
+Lifestyles of the visually impaired
+Career opportunities for the visually impaired
+
+
+
+
+30)Reto Meier predicts that 10 years from now we will be able to get transparent LCD patches that will adhere to our eyeglasses and 20 years from now we’ll have contact lenses that project images directly onto our retinas and that we will be able to interface with computers through mind control.
+ • The most profound effect will come from the development of the synaptic interface technology. This technology will allow people who are visually impaired to see just as the hearing impaired are able to hear through cochlear implants.
+
+
+
+
+Screenless display technology is the present evolving computer-enhanced technologies. It will surely be the one of the greatest development in the field of technology in the upcoming future. Several patents are still researching on this new technology which can change the whole view of the displays. 
+
+
+
+
+
